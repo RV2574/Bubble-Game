@@ -19,7 +19,7 @@ To get started with the Bubble Game on your local machine, follow these steps:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/bubble-game.git
+git clone https://github.com/RV2574/Bubble-Game
 Navigate to the Project Directory:
 bash
 Copy code
