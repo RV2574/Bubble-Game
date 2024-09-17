@@ -1,4 +1,4 @@
-Bubble Game
+
 Bubble Game is an interactive web game where players aim to score points by clicking on bubbles that match a target number. It offers a vibrant and responsive design suitable for various devices.
 
 Features
